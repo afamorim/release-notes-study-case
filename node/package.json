@@ -1,0 +1,10 @@
+{
+  "name": "node-standard-versio-study-case",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antonio Amorim",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^7.1.0"
+  }
+}
